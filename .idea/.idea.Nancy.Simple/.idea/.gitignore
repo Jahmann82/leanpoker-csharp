@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Nancy.Simple.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Development\Leanpoker\poker-player-csharp\.idea\.idea.Nancy.Simple\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
